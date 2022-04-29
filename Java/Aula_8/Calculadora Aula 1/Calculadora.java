@@ -23,7 +23,7 @@ class Calculadora {
         return a / b ; // note que a divisão é inteira
     }
 }
-public class Main {
+public class Calculadora {
     public static void main (String args []) {
         Calculadora c = new Calculadora(); // construtor padrão
         /*
