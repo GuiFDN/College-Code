@@ -1,3 +1,5 @@
+package Aula_2.ListaEx.exs;
+
 import java.util.Scanner;
 public class Antes {
     public static void main(String[] args) {
