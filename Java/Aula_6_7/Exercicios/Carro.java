@@ -5,6 +5,7 @@ public class Carro {
     private int anoFabricacao;
 
     //construtores com sobrecarga
+    // parametros dentro do ( )
     public Carro (String placa, String modelo, int anoFabricacao) {
         this.placa = placa;
         this.modelo =  modelo;

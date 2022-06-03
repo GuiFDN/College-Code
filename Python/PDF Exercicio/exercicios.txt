@@ -1,0 +1,2 @@
+Todos os exercícios estão na pasta de teoria de Lóigica de Programação
+O nome do arquivo é Aula 13 e 14
