@@ -7,5 +7,5 @@ def compararMT (tupla1):
 def inverterMT (tupla2):
     h = 1
     lista = []
-    for i in tupla2
+    for i in tupla2:
         lista.append (tupla2)
