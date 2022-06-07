@@ -9,7 +9,7 @@ public class Strings2 {
         //declarar e instanciar um objeto da classe Scanner
         Scanner scanner = new Scanner (System.in); //System.in é entrada padrão
         System.out.println ("Digite sua idade");
-        int idade = scanner.nextint();
+        int idade = scanner.nextInt();
         System.out.println ("Digite seu peso");
         double peso = scanner.nextDouble();
 
