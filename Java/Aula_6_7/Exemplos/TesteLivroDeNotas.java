@@ -2,9 +2,7 @@
 public class TesteLivroDeNotas {
     public static void main (String [] args) {
        
-        LivroDeNotas livro1;
-        livro1 = new LivroDeNotas ();
-
+        LivroDeNotas livro1 = new LivroDeNotas ();
         LivroDeNotas livro2 = new LivroDeNotas ();
 
         livro1.exibirMensagem("Bem-vindos ao livro1");
