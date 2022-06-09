@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Polimorfismo",
+        "Aula_9/Herança",
+        "Aula_6_7/Exercicios",
         "Aula_6_7/Exemplos",
         "Aula_5/Exemplos",
-        "Aula_9/Herança",
-        "Polimorfismo",
-        "Aula_6_7\\Exercicios"
+        "prova"
     ]
 }
