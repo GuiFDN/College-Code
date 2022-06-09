@@ -14,7 +14,7 @@ public class TesteCarro {
         String modelo2 = messi.nextLine();
         
         //String cor1 = "Azul";
-        Carro cueio = new Carro(cor1, modelo1);
+        Carro cueio = new Carro(cor1, modelo1); //construtores com parâmetros, parâmetro pode ser qualquer nome
         Carro Raul = new Carro(cor2, modelo2);
 
         cueio.exibirModelo(cueio.getModelo());
